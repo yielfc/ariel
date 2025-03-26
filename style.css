@@ -1,19 +1,16 @@
-body{
-    background-color: rgb(0, 183, 255);
+h1 {
+    color: red;
+    font-size: 200px;
 }
 
- h1 {
-    color: #9066bf;
+img {
+    background-color: rgb(252, 3, 3);
 }
 
-    h3  {
-       color: #9066bf;  
-     }
+.bacon {
+    background-color: green;
+}
 
-     hr  {
-        border-style: none;
-        border-top-style: dotted;
-        border-color: grey;
-        border-width: 5px;
-        width: 5%
-      }
+.broccoli {
+    background-color: red;
+}
